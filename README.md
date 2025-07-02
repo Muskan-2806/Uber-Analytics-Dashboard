@@ -1,8 +1,9 @@
 📊 Uber Trips Dashboard
+
 Project Title: Uber Trips Dashboard
 Company: Codtech IT Solutions
-Name: B.Thrisha
-Intern ID: CT04DF777
+Name: Muskan
+Intern ID: CT04DF2373
 Domain: Power BI
 Duration: 4 Weeks
 Mentor: Neela Santosh
@@ -70,3 +71,5 @@ uber-trips-dashboard/
 └── README.md # Project documentation
 
 📁 Output
+
+![Image](https://github.com/user-attachments/assets/1a990226-6fe7-4604-9372-049065ed33c1)
